@@ -52,10 +52,10 @@ public class MainActivity2 extends AppCompatActivity {
                         ice="去冰";
                         break;
                     case R.id.btn_ice_low:
-                        sugar="微冰";
+                        ice="微冰";
                         break;
                     case R.id.btn_ice_normal:
-                        sugar="正常冰";
+                        ice="正常冰";
                         break;
                 }
             }

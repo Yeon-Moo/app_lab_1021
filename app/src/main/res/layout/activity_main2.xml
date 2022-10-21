@@ -77,6 +77,7 @@
             android:id="@+id/btn_sugar_normal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:checked="true"
             android:text="全糖" />
     </RadioGroup>
 
@@ -91,12 +92,14 @@
             android:id="@+id/btn_ice_no"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:checked="true"
             android:text="去冰" />
 
         <RadioButton
             android:id="@+id/btn_ice_low"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:checked="true"
             android:text="微冰" />
 
         <RadioButton
